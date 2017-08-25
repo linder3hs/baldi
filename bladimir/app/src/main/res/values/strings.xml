@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">bladimir</string>
+    <string name="titulo_fondo">My Music</string>
+    <string name="mismusicas">Mis musicas preferidas</string>
+    <string name="albun1">Maluma Remix</string>
+    <string name="albun2">Remix Reguee</string>
+    <string name="albun3">Plan b</string>
+    <string name="albun4">Arcangel</string>
+    <string name="musica">10 musicas</string>
+    <string name="musica2">8 musicas</string>
+    <string name="name">Regueaton Clasico</string>
+</resources>
